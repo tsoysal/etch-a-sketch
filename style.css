@@ -33,12 +33,6 @@ html {
     cursor: pointer;
     transition: background-color ease .3s;
     -webkit-tap-highlight-color: transparent;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
 }
 
 .square:hover {
