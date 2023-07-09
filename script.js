@@ -47,4 +47,8 @@ function changeColor(event) {
     event.target.style.backgroundColor = paintColor;
 }
 
+function resetCanvas(){
+  renderCanvas(16);
+}
+
 renderCanvas(16);
